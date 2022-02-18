@@ -17,7 +17,7 @@
 </table>
 
 ## 野望
-私自身の野望としては、「この人がいれば場の流れを変えられる」と思われる本物のフルスタックエンジニアになることです。  
+私自身の野望としては、「この人がいれば場の流れを変えられる」と思われる本物の存在になることです。  
 
 野望の詳細: https://docs.google.com/presentation/d/1ShcgiTkkhdun2VAP5plJWIwN10UExU3C2fRyM7J6yUY/edit#slide=id.g110f2f1a6bc_1_8
 #### 理由
